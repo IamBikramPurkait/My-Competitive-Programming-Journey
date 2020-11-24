@@ -1,0 +1,21 @@
+1)	DSA Introduction - Time Complexity.
+https://practice.geeksforgeeks.org/tracks/dsa-self-paced-preview-intro/?batchId=174
+
+2)	Mathematics 
+https://practice.geeksforgeeks.org/tracks/dsa-workshop-1-mathematics/?batchId=308
+3)
+	
+a) Count Digits
+
+b) Palindrome Numbers
+
+c) Check for Prime
+
+4)	Must do Math for Competitive Programming
+https://www.geeksforgeeks.org/math-in-competitive-programming/
+
+5)	Mathematical Algorithms - GFG
+https://www.geeksforgeeks.org/mathematical-algorithms/
+
+6)	Practice problems from - GFG
+https://practice.geeksforgeeks.org/explore/?category%5B%5D=Mathematical&difficulty%5B%5D=-2&difficulty%5B%5D=-1&difficulty%5B%5D=0&difficulty%5B%5D=1&page=1
